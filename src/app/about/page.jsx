@@ -184,7 +184,7 @@ const AboutPage = () => {
                      Long Term Intern
                   </div>
                   {/* JOB DESC */}
-                  <div className="p-3 text-sm italic">
+                  <div className="p-3 text-sm italic ">
                   I had the opportunity to work in the Frontend and Devops fields.
                   </div>
                   {/* JOB DATE */}
