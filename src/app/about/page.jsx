@@ -41,7 +41,7 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-            Hello, I'm Gül. I'm a software engineer with a strong interest in web development and DevOps. I graduated with honors in Computer Engineering from İnönü University in 2024. Through self-learning, I've developed my web development skills and have been involved in several projects, gaining proficiency in this field. Additionally, I gained valuable experience in DevOps through a training program I attended as part of the Women in Tech team and during a long-term internship. I'm passionate about continuous learning and aim to further expand my knowledge and experience in both web development and DevOps.
+            Hello, I am Gül. I am a software engineer with a strong interest in web development and DevOps. I graduated with honors in Computer Engineering from İnönü University in 2024. Through self-learning, I have developed my web development skills and have been involved in several projects, gaining proficiency in this field. Additionally, I gained valuable experience in DevOps through a training program I attended as part of the Women in Tech team and during a long-term internship. I am passionate about continuous learning and aim to further expand my knowledge and experience in both web development and DevOps.
             </p>
         
             {/* BIOGRAPHY SCROLL SVG */}
